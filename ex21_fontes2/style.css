@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family:'OldLondon';
+    src: url('OldLondon.ttf') format('truetype');
+    font-style: normal;
+}
+
+body {
+    font-family: 'OldLondon';
+    font-size: 1em;
+ }
+
+h1, h2 {
+    font-family: 'OldLondon';
+}

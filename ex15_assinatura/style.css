@@ -1,0 +1,39 @@
+@charset "UTF-8";
+div {  
+    height: 150px;
+    width: 280px;
+    background-color: rgba(240, 182, 240, 0.226);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.p1 {
+    padding-left: 25px;
+}
+
+.p2 {
+    padding-left: 5px;
+}
+
+.img1 {
+    padding-left: 35px;
+}
+
+.img2 {
+    padding-left: 35px;
+}
+
+.img3 {
+    padding-right: 35px;
+}
+
+.div1{
+    background-color: #000000 !important;
+}
+
+.div2{
+    background-color: red;
+    margin-top: 50%;
+}

@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.imagem_predio {
+    background-image: url(imagens/prédio_cinza.jpg);
+    background-repeat: no-repeat;
+    height: 700px;
+    background-size: cover;
+}
+
+.medida {
+    padding: 15%;
+}
+
+.botao_seta {
+    font-size: 23px;
+    border: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+.imagem_quem_somos {
+    width: 80%;
+}

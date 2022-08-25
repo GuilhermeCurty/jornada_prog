@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+.div1 {  
+    height: 150px;
+    width: 280px;
+    background-color: rgba(240, 182, 240, 0.226);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+}
+
+.p1 {
+    padding-left: 25px;
+}
+
+.p2 {
+    padding-left: 5px;
+}
+
+.img1 {
+    position: absolute;
+    left: 40px;
+    top: 130px;
+}
+
+.img2 {
+    position: absolute;
+    left: 135px;
+    top: 130px;
+}
+
+.img3 {
+    position: absolute;
+    left: 235px;
+    top: 130px;
+}
+
+.hr {
+    color: rgba(243, 11, 224, 0.897);
+}
+
+

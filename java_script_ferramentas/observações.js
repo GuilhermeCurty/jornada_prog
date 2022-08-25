@@ -1,0 +1,1 @@
+console.log("Olá, mundo");// As duas barras servem para gerar uma observação.
