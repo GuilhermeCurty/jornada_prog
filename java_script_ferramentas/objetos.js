@@ -22,4 +22,5 @@
 // console.log(DadosPessoais['Endereço']['Rua']);
 // console.log(DadosPessoais.Endereço.Cidade);
 // console.log(DadosPessoais.Endereço.País);
-console.log(DadosPessoais.Sexo);
+console.log(DadosPessoais.Endereço.Número);
+// console.log(DadosPessoais.Sexo);

@@ -1,5 +1,8 @@
 const nome='Guilherme';
-console.log('%s tem quase 30 anos de idade',nome);
+console.log('%s tem quase 30 anos de idade.',nome);
+console.log("%s tem quase 30 anos de idade.",nome);
+console.log(`${nome} tem quase 30 anos de idade.`);
+console.log(nome);
 const primeiroNumero = 10;
 const segundoNumero = 5;
 const resultado= primeiroNumero * segundoNumero;
@@ -26,3 +29,7 @@ console.log(typeof imc);
 const altura3={
 } 
 console.log(typeof altura3);
+
+const ln = 10;
+console.log(`${ln} + ${ln} + ${ln} é iguala 30.`);
+
