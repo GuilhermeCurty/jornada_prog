@@ -1,6 +1,6 @@
 const nome='Guilherme';
-console.log('%s tem quase 30 anos de idade.',nome);
-console.log("%s tem quase 30 anos de idade.",nome);
+// console.log('%s tem quase 30 anos de idade.',nome);
+// console.log("%s tem quase 30 anos de idade.",nome);
 console.log(`${nome} tem quase 30 anos de idade.`);
 console.log(nome);
 const primeiroNumero = 10;
