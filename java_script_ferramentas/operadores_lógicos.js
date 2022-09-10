@@ -14,5 +14,7 @@ const usuario = 'Guilherme';
 const login = senha==='123456'|| usuario==='Guilherme';
 console.log(login);
 
+console.log(!true);
+
 
 
