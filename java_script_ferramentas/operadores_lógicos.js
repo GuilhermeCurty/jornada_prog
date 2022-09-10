@@ -9,4 +9,10 @@ Operadores Lógicos
 console.log(!!!true);
 console.log(!false);
 
+const senha = '123456';
+const usuario = 'Guilherme';
+const login = senha==='123456'|| usuario==='Guilherme';
+console.log(login);
+
+
 

@@ -44,3 +44,5 @@ numc*=2;
 numc*=2;
 numc*=2;
 console.log(numc);
+
+
