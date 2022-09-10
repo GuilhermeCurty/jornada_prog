@@ -28,5 +28,19 @@ if (true) {
 if (true) {
     const pessoa = 'Guilherme';
     pessoa = 'Letícia';
-    console.log('Letícia');
+    console.log(pessoa);
 }
+
+var nome = 'Guilherme';
+var nome = 'Letícia';
+console.log(nome);
+
+let num = 10;
+num++;
+num++;
+console.log(num);
+
+const numeral = 10;
+numeral++;
+numeral++;
+console.log(numeral);

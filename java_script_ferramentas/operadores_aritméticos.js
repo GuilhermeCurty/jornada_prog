@@ -27,3 +27,20 @@ let num6=36;
 console.log(36**(1/2));
 let num100=25;
 console.log(num100**0.5);
+
+let num = 10;
+num++;
+num++;
+console.log(num);
+
+let contador = 0;
+contador+=2;
+contador+=2;
+contador+=2;
+console.log(contador);
+
+let numc = 2;
+numc*=2;
+numc*=2;
+numc*=2;
+console.log(numc);
